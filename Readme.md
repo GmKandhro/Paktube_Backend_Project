@@ -115,8 +115,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/paktube-backend.git
-   cd paktube-backend
+   git clone https://github.com/GmKandhro/Paktube_Backend_Project.git
+   cd Paktube_Backend_Project
    ```
 
 2. **Install Dependencies**
