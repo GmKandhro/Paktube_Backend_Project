@@ -160,6 +160,4 @@ Use tools like Postman or Thunder Client to test the API endpoints. Ensure you i
 
 ---
 
-## 📄 License
 
-This project is licensed under the ISC License.
